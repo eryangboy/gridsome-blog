@@ -9,7 +9,7 @@
       >
         <el-card :body-style="{ padding: '0px' }">
           <img
-            :src="`http://localhost:1337${post.node.image.url}`"
+            :src="`http://106.75.119.171:1337${post.node.image.url}`"
             class="image"
             style="height:200px"
           />
